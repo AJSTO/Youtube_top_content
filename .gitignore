@@ -3,3 +3,5 @@ logs
 dags/youtube_dag/config.yaml
 dags/youtube_dag/credentials.json
 dags/youtube_dag/youtube_secret_oauth.json
+__pycache__/
+**/.DS_Store
