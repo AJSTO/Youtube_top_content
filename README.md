@@ -1,13 +1,5 @@
 ## 👨‍💻 Built with
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> 
-<img src="https://airflow.apache.org/images/feature-image.png" width="100" height="27,5" />
-
-<img src="https://www.devagroup.pl/blog/wp-content/uploads/2022/10/logo-Google-Looker-Studio.png" width="100" height="27,5" />
-<img src="https://www.scitylana.com/wp-content/uploads/2019/01/Hello-BigQuery.png" width="100" height="27,5" />
-<img src="https://camo.githubusercontent.com/3492e111812ac08200d4acd9a0dce36ff18e22be558865d26aae570f4348996c/68747470733a2f2f6a6f736570686d75636972616578636c7573697665732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f596f75547562652d446174612d4150492d4f766572766965772e6a7067" width="100" height="27,5" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://airflow.apache.org/images/feature-image.png" width="100" height="27,5" /> <img src="https://www.devagroup.pl/blog/wp-content/uploads/2022/10/logo-Google-Looker-Studio.png" width="100" height="27,5" /> <img src="https://www.scitylana.com/wp-content/uploads/2019/01/Hello-BigQuery.png" width="100" height="27,5" /> <img src="https://camo.githubusercontent.com/3492e111812ac08200d4acd9a0dce36ff18e22be558865d26aae570f4348996c/68747470733a2f2f6a6f736570686d75636972616578636c7573697665732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f596f75547562652d446174612d4150492d4f766572766965772e6a7067" width="100" height="27,5" />
 
 ##  Descripction about project
 
